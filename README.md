@@ -34,7 +34,7 @@ Object Detection 모델 적용하여 항공위성 이미지에서 객체 탐지
 (2) Apply 4 famous models to ariel image  
     --> 일부 모델은 객체를 탐지하지 못하는 문제 발생  
     
-(3) OpenCV for image preprocessing
+(3) OpenCV for image preprocessing  
    --> large image size & small object 문제를 극복하기 위해 image cropping and etc....
 
  코드: 
@@ -54,11 +54,8 @@ Object Detection 모델 적용하여 항공위성 이미지에서 객체 탐지
 
 (1) EDA & Preprocessing
  
- 
 
-(2) kaggle: Dogs vs. Cats Redux  
-    Inception v3 model import & Transfer learning
+(2) Modeling
    
-(3) kaggle: Plant Pathology 2020  
-    Import various models at once & Compare their performance
+
   
