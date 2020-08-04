@@ -47,14 +47,14 @@ Object Detection 모델 적용하여 항공위성 이미지에서 객체 탐지
 ### **Project 1) Bank Marketing**
 
 * Background  
-- 은행 고객 데이터를 기반으로, 고객의 특성 중 어느 부분이 정기예금 가입에 가장 많은 영향을 미치는가를 파악 & 당사의 정기예금에 가입할지 여부를 예측
-- 변수가 많지 않은 data 
+은행 고객 데이터를 기반으로, 고객의 특성 중 어느 부분이 정기예금 가입에 가장 많은 영향을 미치는가를 파악 & 당사의 정기예금에 가입할지 여부를 예측
+(변수가 많지 않은 data)
 
 * Process
 
 (1) EDA & Preprocessing
- _ 
- _
+ 
+ 
 
 (2) kaggle: Dogs vs. Cats Redux  
     Inception v3 model import & Transfer learning
