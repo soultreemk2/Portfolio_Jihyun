@@ -2,7 +2,8 @@
 포트폴리오 정리본
 
 
-## Part 1. AI - Computer Vision
+_## Part 1. AI - Computer Vision_
+
 **Project 1) Image Classification**
 
 * Background
