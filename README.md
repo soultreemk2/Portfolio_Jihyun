@@ -14,10 +14,10 @@ Image classification을 사용하여 단일 사물 이미지 분류 / 모델의 
 (1) CNN을 기반으로 inception module 구축 & Googlenet architecture 구현
 
 (2) kaggle: Dogs vs. Cats Redux  
-  - Inception v3 model import & Transfer learning
+  -- Inception v3 model import & Transfer learning
    
 (3) kaggle: Plant Pathology 2020  
-  - Import various models at once & Compare their performance
+  -- Import various models at once & Compare their performance
   
  코드: ------------
  
