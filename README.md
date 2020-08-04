@@ -37,7 +37,7 @@ Object Detection 모델 적용하여 항공위성 이미지에서 객체 탐지
 (3) OpenCV for image preprocessing  
    --> large image size & small object 문제를 극복하기 위해 image cropping and etc....
 
- 코드: 
+ 코드: [Detection](https://github.com/soultreemk2/Portfolio_Jihyun/tree/master/AI_Detection)
  
  
  
@@ -57,6 +57,6 @@ Object Detection 모델 적용하여 항공위성 이미지에서 객체 탐지
  
 
 (2) Modeling
-   
-
+ 
+ 코드: [Bank-Marketing](https://github.com/soultreemk2/Portfolio_Jihyun/tree/master/ML_bank_marketing)
   
