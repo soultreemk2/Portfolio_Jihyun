@@ -31,11 +31,11 @@ Object Detection 모델 적용하여 항공위성 이미지에서 객체 탐지
 
 (1) 최신 모델 조사 & 비교 (papers with code 참조)
 
-(2) Apply 4 famous models to ariel image
-    일부 모델은 객체를 탐지하지 못하는 문제 발생
+(2) Apply 4 famous models to ariel image  
+    --> 일부 모델은 객체를 탐지하지 못하는 문제 발생  
     
 (3) OpenCV for image preprocessing
-    large image size & small object 문제를 극복하기 위해 image cropping and etc....
+   --> large image size & small object 문제를 극복하기 위해 image cropping and etc....
 
  코드: 
  
