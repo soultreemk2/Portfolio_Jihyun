@@ -2,9 +2,9 @@
 포트폴리오 정리본
 
 
-## _[Part 1] AI - Computer Vision_
+# _[Part 1] AI - Computer Vision_
 
-**Project 1) Image Classification**
+## **Project 1) Image Classification**
 
 * Background
 Image classification을 사용하여 단일 사물 이미지 분류 / 모델의 architecture 파악
