@@ -53,8 +53,8 @@ Object Detection 모델 적용하여 항공위성 이미지에서 객체 탐지
 * Process
 
 (1) EDA & Preprocessing
- - 
- -
+ _ 
+ _
 
 (2) kaggle: Dogs vs. Cats Redux  
     Inception v3 model import & Transfer learning
