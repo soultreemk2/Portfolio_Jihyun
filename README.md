@@ -19,7 +19,7 @@ Image classification을 사용하여 단일 사물 이미지 분류 / 모델의 
 (3) kaggle: Plant Pathology 2020  
     Import various models at once & Compare their performance
   
- 코드: [classification] (https://github.com/soultreemk2/Portfolio_Jihyun/tree/master/AI_Classification)
+ 코드: [classification](https://github.com/soultreemk2/Portfolio_Jihyun/tree/master/AI_Classification)
  
  
 ### **Project 2) Object Detection**
