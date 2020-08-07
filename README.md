@@ -45,7 +45,7 @@ Object Detection 모델 적용하여 항공위성 이미지에서 객체 탐지
 
 ## _[Part 2] ML - Structured Data Analysis_
 
-### **Project 1) Bank Marketing**
+### **Project 3) Bank Marketing**
 
 * Background  
 은행 고객 데이터를 기반으로, 고객의 특성 중 어느 부분이 정기예금 가입에 가장 많은 영향을 미치는가를 파악 & 당사의 정기예금에 가입할지 여부를 예측
