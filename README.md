@@ -9,16 +9,22 @@
 * Background  
 Image classification을 사용하여 단일 사물 이미지 분류 / 모델의 architecture 파악
 
+* 최종목표  
+kaggle: Plant Pathology 2020    
+: 나뭇잎 이미지로 나무의 상태를 4가지로 분류  
+
 * Process
 
 (1) CNN을 기반으로 inception module 구축 & Googlenet architecture 구현
 
-(2) kaggle: Dogs vs. Cats Redux  
+(2) 단일 모델 적용
     Inception v3 model import & Transfer learning
-   
-(3) kaggle: Plant Pathology 2020  
+    _accuracy가 84%에 불과_
+    
+(3) 다중 모델 적용
     Import various models at once & Compare their performance
-  
+   _성능이 가장 높은 모델은 99.8%의 training accuracy (val accuracy는 97%)_
+   
  코드: [classification](https://github.com/soultreemk2/Portfolio_Jihyun/tree/master/AI_Classification)
  
  
@@ -32,7 +38,7 @@ Object Detection 모델 적용하여 항공위성 이미지에서 객체 탐지
 (1) 최신 모델 조사 & 비교 (papers with code 참조)
 
 (2) Apply 4 famous models to ariel image  
-    --> 일부 모델은 객체를 탐지하지 못하는 문제 발생  
+    --> but 일부 모델에서는 객체를 탐지하지 못하는 문제 발생  
     
 (3) OpenCV for image preprocessing  
    --> large image size & small object 문제를 극복하기 위해 image cropping and etc....
