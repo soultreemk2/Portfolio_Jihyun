@@ -18,12 +18,12 @@ kaggle: Plant Pathology 2020
 (1) CNN을 기반으로 inception module 구축 & Googlenet architecture 구현
 
 (2) 단일 모델 적용
-    Inception v3 model import & Transfer learning
-    _accuracy가 84%에 불과_
+    Inception v3 model import & Transfer learning  
+    _accuracy가 84%에 불과_  
     
 (3) 다중 모델 적용
-    Import various models at once & Compare their performance
-   _성능이 가장 높은 모델은 99.8%의 training accuracy (val accuracy는 97%)_
+    Import various models at once & Compare their performance  
+   _성능이 가장 높은 모델은 99.8%의 training accuracy (val accuracy는 97%)_  
    
  코드: [classification](https://github.com/soultreemk2/Portfolio_Jihyun/tree/master/AI_Classification)
  
