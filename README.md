@@ -45,7 +45,8 @@ Object Detection 모델 적용하여 항공위성 이미지에서 객체 탐지
 
  코드: [Detection](https://github.com/soultreemk2/Portfolio_Jihyun/tree/master/AI_Detection)
  
- 
+ (4) 기울어진 객체 탐지 (rotated object detection)  
+ https://developer.nvidia.com/blog/detecting-rotated-objects-using-the-odtk/
  
  
 
