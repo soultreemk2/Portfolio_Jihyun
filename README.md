@@ -50,7 +50,9 @@ Object Detection 모델 적용하여 항공위성 이미지에서 객체 탐지
  https://junha1125.tistory.com/21
  
  
- ## _[Part 2] AI - Natural Language Prossesing(NLP)
+ ## _[Part 2] AI - Natural Language Prossesing(NLP)_  
+ 
+ 
  
  
  
