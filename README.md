@@ -51,13 +51,18 @@ Object Detection 모델 적용하여 항공위성 이미지에서 객체 탐지
  
  
  ## _[Part 2] AI - Natural Language Prossesing(NLP)_  
+ ### **Project 1) Knowledge Graph 구축**
+
+* Background  
+Image classification을 사용하여 단일 사물 이미지 분류 / 모델의 architecture 파악
  
  
  
- 
+## _[Part 3] 기타 분석_  
+interpolation 기법 개발  
  
 
-## _[Part 3] ML - Structured Data Analysis_
+## _[Part 4] ML - Structured Data Analysis_##
 
 ### **Project 3) Bank Marketing**
 
