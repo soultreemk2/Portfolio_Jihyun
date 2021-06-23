@@ -28,6 +28,8 @@ kaggle: Plant Pathology 2020
  코드: [classification](https://github.com/soultreemk2/Portfolio_Jihyun/tree/master/AI_Classification)
  
  
+ 
+ 
 ### **Project 2) Object Detection**
 
 * Background  
@@ -50,6 +52,8 @@ sol 2) 기울어진 객체 탐지 방법론 적용 (rotated object detection)
  코드: [Detection](https://github.com/soultreemk2/Portfolio_Jihyun/tree/master/AI_Detection)
  
  
+ 
+ 
  ## _[Part 2] AI - Natural Language Prossesing (NLP)_  
  ### **Project 1) Knowledge Graph 구축**
 
@@ -59,6 +63,8 @@ Image classification을 사용하여 단일 사물 이미지 분류 / 모델의 
 
 
  1) networkx 를 활용하여 graph visualize
+ 
+ 
  
  
 
@@ -72,6 +78,12 @@ Image classification을 사용하여 단일 사물 이미지 분류 / 모델의 
 --> kde를 통해 소실된 정보 interpolation 
 
 * Process
+
+
+
+### **Project 2) Bayesian Optimizaton - 설계변수 최적화**
+
+
 
 
 
