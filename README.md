@@ -58,11 +58,10 @@ sol 2) 기울어진 객체 탐지 방법론 적용 (rotated object detection)
  ### **Project 1) Knowledge Graph 구축**
 
 * Background  
-Image classification을 사용하여 단일 사물 이미지 분류 / 모델의 architecture 파악
  
-
-
- 1) networkx 를 활용하여 graph visualize
+ 
+* Process
+ 1) 문서 전처리
  
  
  
@@ -74,10 +73,16 @@ Image classification을 사용하여 단일 사물 이미지 분류 / 모델의 
 
 * Background  
 300mm의 반도체 웨이퍼 두께를 측정할 때 통상 49, 73 point 만 측정  
---> 측정되지 않은 공간에서 소실된 정보가 多
+--> 측정되지 않은 공간에서 소실된 정보가 多 신뢰성 부족
 --> kde를 통해 소실된 정보 interpolation 
 
 * Process
+1) x축으로 모든 point를 측정한 데이터 확보 (xscan data) 
+--> Kernel Density Estimation (KDE)를 통한 각 포인트의 Nonparametric 분포 학습
+
+2) 원점을 기준으로 각도를 변경하며 1번 과정 반복
+
+3) matplot의 삼각보간법을 활용하여 visualize
 
 
 
