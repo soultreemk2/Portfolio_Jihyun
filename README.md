@@ -67,7 +67,7 @@ sol 2) 기울어진 객체 탐지 방법론 적용 (rotated object detection)
  
  
 
-## _[Part 4] ML - Structured Data Analysis_##
+## _[Part 3] ML - Structured Data Analysis_##
 
 ### **Project 1) kernel density estimation(kde)를 활용한 interpolation 기법 개발**
 
