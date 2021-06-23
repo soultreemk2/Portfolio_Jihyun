@@ -1,5 +1,5 @@
 # Portfolio_Jihyun
-학부 포트폴리오 정리본 (2018 ~ 2
+학부 포트폴리오 정리본 (2018 ~ 2021)
 
 
 ## _[Part 1] AI - Computer Vision_
