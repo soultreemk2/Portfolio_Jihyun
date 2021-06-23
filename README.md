@@ -79,11 +79,13 @@ sol 2) 기울어진 객체 탐지 방법론 적용 (rotated object detection)
 * Process
 1) x축으로 모든 point를 측정한 데이터 확보 (xscan data) 
 --> Kernel Density Estimation (KDE)를 통한 각 포인트의 Nonparametric 분포 학습
+--> 한 축당 5~7point로 측정된 trend가 49point로 확장
 
 2) 원점을 기준으로 각도를 변경하며 1번 과정 반복
+--> 30도씩 각도를 변경하여 총 11번 trend확장 & 축 매칭
 
 3) matplot의 삼각보간법을 활용하여 visualize
-
+--> 49x12개로 확장된 데이터를 300x300으로 보간
 
 
 ### **Project 2) Bayesian Optimizaton - 설계변수 최적화**
